@@ -1,0 +1,16 @@
+mar. 02, 2023 2:33:05 A. M. com.mycompany.mavenlogger.JobLogger LogMessage
+INFO: Init parametros: conexión Database LogToFile
+mar. 02, 2023 2:33:05 A. M. com.mycompany.mavenlogger.JobLogger LogMessage
+INFO: Warning:: Init parametros: conexión Database
+mar. 02, 2023 2:33:05 A. M. com.mycompany.mavenlogger.JobLogger LogMessage
+INFO: Init parametros: conexión Database LogToConsole
+mar. 02, 2023 2:33:05 A. M. com.mycompany.mavenlogger.JobLogger LogMessage
+INFO: Warning:: Init parametros: conexión Database
+mar. 02, 2023 2:39:59 A. M. com.mycompany.mavenlogger.JobLogger LogMessage
+INFO: Init parametros: conexión Database LogToFile
+mar. 02, 2023 2:39:59 A. M. com.mycompany.mavenlogger.JobLogger LogMessage
+INFO: Warning:: Init parametros: conexión Database
+mar. 02, 2023 2:39:59 A. M. com.mycompany.mavenlogger.JobLogger LogMessage
+INFO: Init parametros: conexión Database LogToConsole
+mar. 02, 2023 2:39:59 A. M. com.mycompany.mavenlogger.JobLogger LogMessage
+INFO: Warning:: Init parametros: conexión Database
